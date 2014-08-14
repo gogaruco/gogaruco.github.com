@@ -95,7 +95,7 @@ saturday:
   - name: "Building an ORM with AReL: Walking up the (AS)Tree."
     start: "10:45"
     end: "11:15"
-    speaker: "Vipul Amler and Prathamesh Sonpatki"
+    speaker: "Vipul Amler"
     image: "speakers/vamler.jpg"
     description: "We all love ActiveRecord. Its amazing. But how exactly does ActiveRecord handle generating complex SQL queries? How Joins, Associations and Table Relations are handled? Most of this raw power comes from ARel. ARel is packed up with many features for complex query generation.<br /><br />Lets build our own ORM on top of ARel to see it in action. In the process we will also explore about how ActiveRecord hooks up with ARel. <br /><br />This talk describes Relational Algebra, Object and Collection modelling of ARel using a tiny ORM at its base. At the end of talk you will be equipped with better understanding of ARel and AR as an ORM."
     anchor: "vamler"
