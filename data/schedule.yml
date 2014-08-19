@@ -2,12 +2,18 @@ thursday:
   - name: "TBA Goodness"
     start: "7:00"
     end: "10:00"
-    description: "Hosted by our friends at <a href='http://www.ninefold.com'>Ninefold</a>"
+    description: "Hosted by our friends at <a href='http://www.ninefold.com'>Ninefold</a> and <a href='http://www.fastly.com/''>Fastly</a>"
   # - name: "Whiskey Tasting"
   #   start: "7:00"
   #   end: "10:00"
   #   description: "Hosted By Pivotal Labs"
 friday:
+  - name: "Registration"
+    start: "8:30"
+    end: "10:00"
+    image: "speakers/person.png"
+    description: "Sign in, grab your lanyard, badge, bag, and seat. A good time to talk to some of our sponsors before the show starts :)"
+    non_speaking_event_with_details: true
   - name: "TBA"
     start: "10:00"
     end: "10:30"
@@ -85,6 +91,12 @@ friday:
     description: "Details to follow, registration IS required."
     non_speaking_event_with_details: true
 saturday:
+  - name: "Registration"
+    start: "8:30"
+    end: "10:00"
+    image: "speakers/person.png"
+    description: "If you missed Registration on Day 1, stop by the Help Desk upstairs to pick up your things. If you're already registered, feel free to show up just before 10am for the first session."
+    non_speaking_event_with_details: true
   - name: "Reimplementing Ruby's Hash"
     start: "10:00"
     end: "10:30"
