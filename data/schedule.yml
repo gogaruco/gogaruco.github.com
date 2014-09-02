@@ -1,8 +1,8 @@
 thursday:
-  - name: "TBA Goodness"
+  - name: "Official Festivities"
     start: "7:00"
     end: "10:00"
-    description: "Hosted by our friends at <a href='http://www.ninefold.com'>Ninefold</a> and <a href='http://www.fastly.com/''>Fastly</a>"
+    description: "Hosted by our friends at <a href='http://www.ninefold.com'>Ninefold,</a><br><a href='https://www.eventbrite.com/e/gogaruco-2014-official-kickoff-party-with-ninefold-tickets-12844240469'>Register (required) here</a>!"
   # - name: "Whiskey Tasting"
   #   start: "7:00"
   #   end: "10:00"
@@ -88,7 +88,7 @@ friday:
     end: ""
     speaker: "<a href='http://hired.com/?utm_source=events&utm_medium=gogaruco&utm_campaign=gogaruby-sept_14-sponsor_logo'>Hired</a>"
     image: "speakers/person.png"
-    description: "Details to follow, registration IS required."
+    description: "Registration IS required, <a href='https://www.eventbrite.com/e/hired-gogaruco-afterparty-tickets-12084728749'>available here</a>. Non-attendees also welcome, but for a fee."
     non_speaking_event_with_details: true
 saturday:
   - name: "Registration"
@@ -171,5 +171,5 @@ saturday:
     end: ""
     speaker: "<a href='http://www.stitchfix.com'>Stitch Fix</a>"
     image: "speakers/person.png"
-    description: "The closing conference party will be hosted at UCSF, just downstairs from the conference. Optimized for post-conference laziness :D"
+    description: "The closing conference party will be hosted at UCSF, just downstairs from the conference. Optimized for post-conference laziness :D No registration required."
     non_speaking_event_with_details: true
