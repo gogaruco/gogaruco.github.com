@@ -121,7 +121,7 @@ saturday:
   - name: "Lunch"
     start: "12:00"
     end: "1:30"
-  - name: "TBA"
+  - name: "Let’s Talk About Rust"
     start: "1:30"
     end: "2:00"
     speaker: "Yehuda Katz"
