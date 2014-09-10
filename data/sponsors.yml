@@ -71,6 +71,11 @@ gold:
     darker_image: "sponsors/mavenlink.jpg"
     description: "Mavenlink’s mission is to reinvent the way businesses do work. We provide technology that enables organizations to conduct business anywhere, with anyone. Our software combines advanced project management, resource planning, collaboration, and financial tools. Mavenlink empowers businesses to better understand their productivity and improve profitability—all in one place."
     website: "http://www.mavenlink.com"
+  - name: "Procore"
+    lighter_image: "sponsors/procore-pages.jpg"
+    darker_image: "sponsors/procore-footer.png"
+    description: "Procore is a cloud-based construction management software application built for the construction industry professional. We strive to make project management effortless, one task at a time. With Procore's easy-to-use and collaborative software, clients can manage projects at anytime, from anywhere, with any Internet-connected device."
+    website: "http://www.procore.com"
 silver:
   - name: "StickerMule"
     lighter_image: "sponsors/stickermule-pages.png"
