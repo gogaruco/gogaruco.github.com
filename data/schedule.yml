@@ -19,7 +19,7 @@ friday:
     end: "10:30"
     speaker: "Sarah Allen"
     image: "speakers/sallen.jpeg"
-    description: "Coming Soon!"
+    description: "I love Ruby, but last year I found myself at the Smithsonian Institution coding in, of all things, PHP & Drupal. And I realized that despite my ambivalence towards those technologies, I had no compelling-enough reason to propose Ruby as an alternative. How did we get to this point? I’ll tell 3 reasons we didn't use Ruby, and reflect on whether these are things we want, or problems we should solve."
     anchor: "sallen"
   - name: "Refactoring Ruby with Monads"
     start: "10:45"

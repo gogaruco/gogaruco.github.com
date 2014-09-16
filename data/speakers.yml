@@ -11,7 +11,7 @@ all:
     image: "speakers/sallen.jpeg"
     description: "Sarah is a serial innovator with a history of developing leading-edge products, such as After Effects, Shockwave, Flash video, and OpenLaszlo. She has a habit of recognizing great and timely ideas, finding talented teams, and creating compelling software. She has led small and large teams and confidently turns vision into reality. She runs an innovative product strategy, design & development company, Blazing Cloud, in San Francisco."
     session: "3 Reasons Not to Use Ruby"
-    session_details: "Coming Soon!"
+    session_details: "I love Ruby, but last year I found myself at the Smithsonian Institution coding in, of all things, PHP & Drupal. And I realized that despite my ambivalence towards those technologies, I had no compelling-enough reason to propose Ruby as an alternative. How did we get to this point? I’ll tell 3 reasons we didn't use Ruby, and reflect on whether these are things we want, or problems we should solve."
     twitter: "@ultrasaurus"
     anchor: "sallen"
     featured: "true"
