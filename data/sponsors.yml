@@ -76,6 +76,11 @@ gold:
     darker_image: "sponsors/procore-footer.png"
     description: "Procore is a cloud-based construction management software application built for the construction industry professional. We strive to make project management effortless, one task at a time. With Procore's easy-to-use and collaborative software, clients can manage projects at anytime, from anywhere, with any Internet-connected device."
     website: "http://www.procore.com"
+  - name: "Zendesk"
+    lighter_image: "sponsors/zendesk.png"
+    darker_image: "sponsors/zendesk.png"
+    description: "Zendesk provides a customer service platform designed to bring organizations and their customers closer together. With more than 45,000 customer accounts, Zendesk is used by organizations in 140 countries to provide support in more than 40 languages. Founded in 2007 and headquartered in San Francisco, Zendesk has operations in the United States, Europe, Asia, Australia and South America. Learn more at www.zendesk.com."
+    website: "http://www.zendesk.com"
 silver:
   - name: "StickerMule"
     lighter_image: "sponsors/stickermule-pages.png"
